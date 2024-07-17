@@ -69,3 +69,9 @@ To run the Nutrition Counter app locally, follow these steps:
     ```
     cd Backend
     python beckend.py
+
+
+## Snapshots 
+
+![](https://imgur.com/0to5NFV)
+    
